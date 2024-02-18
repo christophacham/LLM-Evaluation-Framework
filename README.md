@@ -59,18 +59,18 @@ For a model to achieve a score of 4 or above, outputs must meet the following cr
 
 The table below provides an overview of how up to 10 different models performed across the evaluation tasks. Use this table to enter scores for each model based on the scoring criteria defined above. The scores should reflect an average across all tasks for each metric.
 
-| Model Name | Relevance | Correctness | Clarity and Readability | Creativity | Efficiency | Completeness | Average Score |
-|------------|-----------|-------------|-------------------------|------------|------------|--------------|---------------|
-| Model 1    |           |             |                         |            |            |              |               |
-| Model 2    |           |             |                         |            |            |              |               |
-| Model 3    |           |             |                         |            |            |              |               |
-| Model 4    |           |             |                         |            |            |              |               |
-| Model 5    |           |             |                         |            |            |              |               |
-| Model 6    |           |             |                         |            |            |              |               |
-| Model 7    |           |             |                         |            |            |              |               |
-| Model 8    |           |             |                         |            |            |              |               |
-| Model 9    |           |             |                         |            |            |              |               |
-| Model 10   |           |             |                         |            |            |              |               |
+| Model Name      | Relevance | Correctness | Clarity and Readability | Creativity | Efficiency | Completeness | Average Score |
+|-----------------|-----------|-------------|-------------------------|------------|------------|--------------|---------------|
+| Mistral-7B-v0.1 |           |             |                         |            |            |              |               |
+| Model 2         |           |             |                         |            |            |              |               |
+| Model 3         |           |             |                         |            |            |              |               |
+| Model 4         |           |             |                         |            |            |              |               |
+| Model 5         |           |             |                         |            |            |              |               |
+| Model 6         |           |             |                         |            |            |              |               |
+| Model 7         |           |             |                         |            |            |              |               |
+| Model 8         |           |             |                         |            |            |              |               |
+| Model 9         |           |             |                         |            |            |              |               |
+| Model 10        |           |             |                         |            |            |              |               |
 
 Fill in the scores for each model across all metrics, then calculate the average score to get an overall performance indicator. This table serves as a quick reference to compare the strengths and weaknesses of each model, facilitating informed decisions on model selection or further training needs.
 
@@ -80,7 +80,7 @@ This table is designed to keep track of the models evaluated, along with their s
 
 | Model Name | Source | Notes |
 |------------|--------|-------|
-| Model 1    | [Hugging Face](https://huggingface.co/models?search=model1) | Notes about Model 1 |
+|Mistral-7B-v0.1    | [Hugging Face](https://huggingface.co/mistralai/Mistral-7B-v0.1) | Notes about Model 1 |
 | Model 2    | [Hugging Face](https://huggingface.co/models?search=model2) | Notes about Model 2 |
 | Model 3    | [Hugging Face](https://huggingface.co/models?search=model3) | Notes about Model 3 |
 | Model 4    | [Hugging Face](https://huggingface.co/models?search=model4) | Notes about Model 4 |
